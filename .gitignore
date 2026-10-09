@@ -1,0 +1,6 @@
+# Upstream benchmark clones (reviewed, not vendored)
+ITSMBench/
+AutomationBench/
+
+.DS_Store
+__pycache__/
